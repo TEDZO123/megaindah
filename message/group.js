@@ -201,7 +201,7 @@ module.exports = async(client, anu) => {
               
              teks =  `Selamat datang di grup\nMoga betah ya kak `        
              buttons = [
-             { buttonId: `y`, buttonText: { displayText: "Oke siap" }, type: 1 },
+             { buttonId: `y`, buttonText: { displayText: "Siap Kak" }, type: 1 },
              { buttonId: `${prefix}bullyuk ${memNumber}`, buttonText: { displayText: "Bully yuk" }, type: 1 } 
              ];         
              sendButLocation(from, intro, copyright, ppUser, buttons)
