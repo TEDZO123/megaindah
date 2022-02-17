@@ -8,8 +8,8 @@ return`
 *│▸* Owner : ${nomerOwner}
 *│▸* Tgl pembuatan : 25-07-2021
 *│▸* Tgl release : 29-09-2021
-*│▸* Image : Black Fox Rikka
-*│▸* Voice : Sasha Chan x Nina Kawaii
+*│▸* Image : N
+*│▸* penyesuaian : Aswal
 *│*
 *│▸* SCRIPT BY
 *│*   Decode Denpa
@@ -24,10 +24,10 @@ return`
 *│*   X-Dev Team
 *│*   Resta Gamteng
 *│*   Zeeone Ofc
-*│*   X-Dev Team
+*│*   Aswal
 *│*   Yudha perdana
 *│*   Xchilds
-*│*
+*│*.  X-Dev Team
 *╰────────────[*`
 }
 
