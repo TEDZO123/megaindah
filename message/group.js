@@ -34,8 +34,8 @@ module.exports = async(client, anu) => {
 	        const pushname = conts.notify || conts.vname || conts.name || PhoneNumber('+' + mem.replace('@s.whatsapp.net', '')).getNumber('international').replace(new RegExp("[()+-/ +/]", "gi"), "")
 	
 	
-            const intro = `Halo ${pushname} \n\nNama : \nUmur :\nGender : \nAsal :\n\nSemoga Betah dan jangan lupa di isi\nAnd Following Rules Group`;
-            const outro = `Asik beban grup keluar \nKena mental dia :v`
+            const intro = `Hai👋 ${pushname} \n\nNama : \nUmur :\nGender : \nAsal :\n\nDi isi biodata singkat nya ya👍\nDan Patuhi Aturan grup!`;
+            const outro = `Beban grup telah keluar🥳 \nKalau Balik lagi,Jangan lupa bawa Gorengan untuk anggota disini yak👍`
             
             
           const sendButImage2 = async(id, text1, desc1, gam1, but = []) => {
@@ -213,7 +213,7 @@ module.exports = async(client, anu) => {
              if(!JSON.parse(fs.readFileSync('./database/welkom.json')).includes(anu.jid)) return
              }
                            
-              teks = `Beban grup telah keluar🤧 \nKalau kembali,jgn lupa bawa gorengan buat anggota disini:v`
+              teks = `Beban grup telah keluar🥳 \nKalau Balik lagi,Jangan lupa bawa Gorengan untuk anggota disini yak👍`
               buttons = [{ buttonId: `y`, buttonText: { displayText: "Nitip Boba Ya" }, type: 1 }
               ];        
               sendButLocation(from, outro, copyright, ppUser, buttons)
