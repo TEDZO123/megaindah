@@ -6,12 +6,12 @@ Berikut adalah list harga untuk sewa botz
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
 *┴*
 *│▸* 1 hari = free
-*│▸* 2 hari = Rp.500         
-*│▸* 7 hari = Rp.1000          
-*│▸* 14 hari = Rp.1500         
-*│▸* 30 hari = Rp.2000       
-*│▸* 40 hari = Rp.2500                
-*│▸* Permanent = Rp.3000                    
+*│▸* 2 hari = Rp.1 milyar      
+*│▸* 7 hari = Rp.12 milyar          
+*│▸* 14 hari = Rp.29 milyar         
+*│▸* 30 hari = Rp.40 milyar
+*│▸* 40 hari = Rp.79 milyar   
+*│▸* Permanent = Rp.11 triliun awowkwowk
 *┬*
 *╰────────────[*
 
