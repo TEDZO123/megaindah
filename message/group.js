@@ -213,8 +213,8 @@ module.exports = async(client, anu) => {
              if(!JSON.parse(fs.readFileSync('./database/welkom.json')).includes(anu.jid)) return
              }
                            
-              teks = `Asik beban grup keluar \nKena mental dia :v`
-              buttons = [{ buttonId: `y`, buttonText: { displayText: "Nitip gorengan" }, type: 1 }
+              teks = `Beban grup telah keluar🤧 \nKalau kembali,jgn lupa bawa gorengan buat anggota disini:v`
+              buttons = [{ buttonId: `y`, buttonText: { displayText: "Nitip Boba Ya" }, type: 1 }
               ];        
               sendButLocation(from, outro, copyright, ppUser, buttons)
               }
