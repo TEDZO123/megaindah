@@ -210,7 +210,7 @@ exports.ohayo =["pagi",
 
 exports.salam =["P","p","Woy","woy","Oy","oy","hey","Hey"]
 
-exports.thanks =["hnk","hanks","akasih","ksh","ksih"]
+exports.thanks =["Mkasih","Thanks","akasih","Trimh kasih","kasih"]
 
 exports.menu = ["menu","Menu","mEnu","menU","mennu","Mana menunya","help","Help"]
 
