@@ -28,7 +28,7 @@
      "lokasiMenu": false,
      "documentMenu": false,
      "autoblockcmd" : true,
-     "autoWelcome": true,
+     "autoWelcome": false,
      "welcomeType1": false,
      "welcomeType2": false,
      "welcomeType3": true,
