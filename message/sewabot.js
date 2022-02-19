@@ -4,8 +4,8 @@ return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* 1 hari = free
+*┴* ✰𝐀𝐬𝐰𝐚𝐥✰ (List candaan sob⚠️) serius silahkan pc
+*│▸* 1 hari = 460 juta
 *│▸* 2 hari = Rp.1 milyar      
 *│▸* 7 hari = Rp.12 milyar          
 *│▸* 14 hari = Rp.29 milyar         
