@@ -24,16 +24,16 @@ exports.tekscmd =["Command tidak ditemukan","Maaf kak command tidak di temukan",
 
 
 
-exports.teksspam =["yaah,kamu kena ban 15 detik😢",
-"Anda terkena ban 15 detik",
-"Krna spam,Anda terkena ban 15 detik",
-"Anda kena ban 15 detik",
-"Terdeteksi spam☹️Anda ke ban 15 dtik",
-"terdeteksi spam☹️",
-"uishh mengerikan🙄",
-"cooldown 15 detik","lagi cooldown kak🤧",
-"Anda Robot?",
-"Sedang cooldwon 15 detik"]
+exports.teksspam =["𝙢𝙖𝙖𝙛 𝙠𝙖𝙠..𝙝𝙖𝙧𝙖𝙥 𝙪𝙣𝙩𝙪𝙠 𝙩𝙙𝙠 𝙢𝙚𝙢𝙗𝙚𝙧𝙞𝙠𝙖𝙣 𝙥𝙚𝙧𝙞𝙣𝙩𝙖𝙝(.)𝙩𝙚𝙧𝙡𝙖𝙡𝙪 𝙘𝙚𝙥𝙖𝙩..𝙢𝙞𝙣𝙞𝙢𝙖𝙡 𝙗𝙚𝙧𝙞𝙠𝙖𝙣 𝙟𝙚𝙙𝙖 𝙬𝙖𝙠𝙩𝙪 𝙙𝙪𝙖 𝙙𝙚𝙩𝙞𝙠 𝙪𝙣𝙩𝙪𝙠 𝙢𝙚𝙡𝙖𝙠𝙪𝙠𝙖𝙣 𝙧𝙚𝙦𝙪𝙚𝙨𝙖𝙣 𝙢𝙚𝙣𝙪 𝙨𝙚𝙡𝙖𝙣𝙟𝙪𝙩𝙣𝙮𝙖"]
+
+
+
+
+
+
+
+
+
 
 
 
