@@ -23,7 +23,7 @@
      "autorespon" : false,
      "autotyping" : false,
      "autoread" : false,
-     "katalogMenu": true,
+     "katalogMenu": false,
      "troliMenu": false,
      "lokasiMenu": true,
      "documentMenu": true,
@@ -36,7 +36,7 @@
      "teksChat" : "Jangan gunakan menu itu disini!",
      "totalForward" : 1000000,
      "explain": true,
-     "gamewaktu": 60,
+     "gamewaktu": 30,
 	 "limitCount": 30,
 	 "gcount": {
 		"prem": 30,
