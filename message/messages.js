@@ -24,16 +24,16 @@ exports.tekscmd =["Command tidak ditemukan","Maaf kak command tidak di temukan",
 
 
 
-exports.teksspam =["Jangan spam om",
+exports.teksspam =["yaah,kamu kena ban 15 detik😢",
 "Anda terkena ban 15 detik",
 "Krna spam,Anda terkena ban 15 detik",
 "Anda kena ban 15 detik",
-"Satu satu dong kak jangan kroyokan ☹️",
-"Bentar dulu kak gantian ☹️",
-"Tunggu yang laen selesai dulu kak 🙄",
-"Satu satu kak jangan kroyokan aku bukan babu disini 😥","Bentar bentar 🤧",
+"Terdeteksi spam☹️Anda ke ban 15 dtik",
+"terdeteksi spam☹️",
+"uishh mengerikan🙄",
+"cooldown 15 detik","lagi cooldown kak🤧",
 "Anda Robot?",
-"Sabar dulu ya kak, yang sabar di sayang janda"]
+"Sedang cooldwon 15 detik"]
 
 
 
@@ -210,7 +210,8 @@ exports.ohayo =["pagi",
 
 exports.salam =["P","p","Woy","woy","Oy","oy","hey","Hey"]
 
-exports.thanks =["Mkasih","Thanks","akasih","Trimh kasih","kasih"]
+exports.thanks =["Mkasih","Thanks","Terimah kasih","makasih"]
+
 
 exports.menu = ["menu","Menu","mEnu","menU","mennu","Mana menunya","help","Help"]
 
